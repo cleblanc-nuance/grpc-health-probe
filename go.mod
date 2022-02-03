@@ -1,4 +1,4 @@
-module github.com/grpc-ecosystem/grpc-health-probe
+module github.com/cleblanc-nuance/grpc-health-probe
 
 go 1.17
 
